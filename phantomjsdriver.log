@@ -1,0 +1,44 @@
+[INFO  - 2021-11-05T03:23:40.878Z] GhostDriver - Main - running on port 43669
+[INFO  - 2021-11-05T03:23:41.299Z] Session [c6290700-3de7-11ec-9ade-c3b96afd2609] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2021-11-05T03:23:41.299Z] Session [c6290700-3de7-11ec-9ade-c3b96afd2609] - page.customHeaders:  - {}
+[INFO  - 2021-11-05T03:23:41.299Z] Session [c6290700-3de7-11ec-9ade-c3b96afd2609] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2021-11-05T03:23:41.299Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c6290700-3de7-11ec-9ade-c3b96afd2609
+[ERROR - 2021-11-05T03:24:09.144Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1636082649125
+[INFO  - 2021-11-05T03:24:09.306Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2021-11-05T03:25:49.687Z] GhostDriver - Main - running on port 22844
+[INFO  - 2021-11-05T03:25:50.094Z] Session [12ed6ea0-3de8-11ec-a1a9-a9a8728987b4] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2021-11-05T03:25:50.094Z] Session [12ed6ea0-3de8-11ec-a1a9-a9a8728987b4] - page.customHeaders:  - {}
+[INFO  - 2021-11-05T03:25:50.094Z] Session [12ed6ea0-3de8-11ec-a1a9-a9a8728987b4] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2021-11-05T03:25:50.094Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 12ed6ea0-3de8-11ec-a1a9-a9a8728987b4
+[ERROR - 2021-11-05T03:26:01.994Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1636082761961
+[ERROR - 2021-11-05T03:26:37.420Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1636082797366
+[ERROR - 2021-11-05T03:27:14.238Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1636082834214
+[INFO  - 2021-11-05T03:27:33.937Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2021-11-05T03:28:01.867Z] GhostDriver - Main - running on port 48161
+[INFO  - 2021-11-05T03:28:02.291Z] Session [61b917f0-3de8-11ec-8c18-37e00b4e7ac4] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2021-11-05T03:28:02.291Z] Session [61b917f0-3de8-11ec-8c18-37e00b4e7ac4] - page.customHeaders:  - {}
+[INFO  - 2021-11-05T03:28:02.291Z] Session [61b917f0-3de8-11ec-8c18-37e00b4e7ac4] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2021-11-05T03:28:02.291Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 61b917f0-3de8-11ec-8c18-37e00b4e7ac4
+[ERROR - 2021-11-05T03:28:11.360Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1636082891340
+[ERROR - 2021-11-05T03:28:16.563Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1636082896524
+[ERROR - 2021-11-05T03:30:16.139Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1636083016102
+[INFO  - 2021-11-05T03:33:01.877Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-11-05T03:38:01.883Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-11-05T03:43:02.206Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-11-05T03:48:02.310Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-11-05T03:53:02.322Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-11-05T03:58:02.331Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-11-05T04:03:02.340Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-11-05T04:08:02.349Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-11-05T04:13:02.350Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-11-05T04:18:02.359Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-11-05T04:23:02.371Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-11-05T04:28:02.599Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-11-05T04:33:02.608Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-11-05T04:38:02.617Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-11-05T04:43:02.626Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-11-05T04:48:02.637Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-11-05T04:53:02.644Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-11-05T04:58:02.075Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2021-11-05T05:02:11.584Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1636088531559
+[INFO  - 2021-11-05T05:02:11.845Z] ShutdownReqHand - _handle - About to shutdown
